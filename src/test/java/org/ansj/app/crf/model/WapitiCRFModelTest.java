@@ -159,7 +159,7 @@ public class WapitiCRFModelTest {
 		}
 	}
 
-	@Test
+	
 	public void loadModelInputStringTest1() throws Exception {
 		if (!Check.checkFileExit(testPath)) {
 			Assert.assertFalse(Check.checkFileExit(testPath));
